@@ -7,7 +7,7 @@
 
 - `lens_hooks.stl`: Version with four hooks designed to secure the lens to the transducer using rubber bands.
 
-  ![photo_2025-09-17_08-44-09](https://github.com/user-attachments/assets/fc6b9815-f0c9-4c3f-9d04-a0b3bd61d36d)
+<img src="https://github.com/user-attachments/assets/fc6b9815-f0c9-4c3f-9d04-a0b3bd61d36d" alt="photo" width="400"/>
 
 - `lens_pins.stl`: Version with four pins designed to fit snugly inside the white structure attached to the face of the transducer.
 
