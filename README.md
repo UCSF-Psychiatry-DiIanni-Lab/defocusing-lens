@@ -1,5 +1,4 @@
-## 3D-Printable Models: Defocusing Lens for Focused Ultrasound Neuromodulation
-
+## Design of aberrating lenses for effective controls in transcranial ultrasound neuromodulation
 > STL files and design specs for a defocusing lens used in transcranial focused ultrasound neuromodulation.  
 > Compatible with the **NeuroFUS DPX-500-4CH transducer** (Brainbox Ltd).
 
