@@ -6,7 +6,7 @@
 ### 🔧 Versions Included
 
 - `lens_hooks.stl`: Version with four hooks designed to secure the lens to the transducer using rubber bands.
-- 
+  
 <div align="center">
   <img width="400" alt="lens_hooks" src="https://github.com/user-attachments/assets/8ea16c64-2d34-4c73-b8e6-b0856c117323" />
 </div>
