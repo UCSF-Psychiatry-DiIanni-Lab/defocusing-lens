@@ -23,4 +23,4 @@
 For any questions or additional information, feel free to reach out:
 
 - 📧 andrea.boscutti@ucsf.edu  
-- 📧 tommasodiianni@ucsf.edu
+- 📧 tommaso.diianni@ucsf.edu
